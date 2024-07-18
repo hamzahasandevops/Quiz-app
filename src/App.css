@@ -1,0 +1,39 @@
+.heading{
+    position: relative;
+    left: 630px;  position: relative;
+
+}
+
+.main_container{
+   display: flex;
+  
+   align-items: center;
+height: 400px;
+width: 500px;
+flex-direction: column;
+border: 1px solid black;
+margin: auto;
+}
+
+.question{
+    height: 120px;
+    width: 400px;
+    border: 1px solid black;
+    margin-top: 39px;
+    
+}
+
+.button_option{
+    margin-top: 12px;
+}
+
+.button{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin-top: 15px;
+}
+
+/* .active{
+    background-color: aqua;
+} */
